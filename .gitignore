@@ -1,0 +1,9 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore config.json
+config.json
+
+#Ignore other files or directories as needed
+.DS_Store
+*.log
