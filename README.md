@@ -7,7 +7,7 @@ This project demonstrates a simple ETL (Extract, Transform, Load) process and ou
 The data analyst team requires a table to create a dashboard detailing orders from the data stored in the production database marketplace. As the data engineer, your task is to develop a data migration script that transfers the necessary tables from the production database to the data warehouse. This ensures that the data analyst team can use the table from the data warehouse without placing a burden on the production database marketplace.
 
 The data analyst team has provided the required schema, outlining the columns needed for their analysis.
-~~~~
+```sql
 order_id INT NOT NULL,
 order_date DATE NOT NULL,
 user_id INT NOT NULL,
@@ -19,7 +19,7 @@ voucher_name VARCHAR(255),
 voucher_price INT,
 order_total INT,
 rating_status VARCHAR(255)
-~~~~
+```
 
 
 ## Requirements
@@ -29,7 +29,7 @@ This project requires the following:
 * sqlparse: A non-validating SQL parser for Python, used for parsing SQL queries.
 * pandas: A powerful data manipulation and analysis library for Python, used for data transformation and analysis in the ETL process.
 
-```
+```python
 Python 3.10
 psycopg2-binary ==2.9.3
 SQLAlchemy ==1.4.40
