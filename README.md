@@ -1,4 +1,4 @@
-# ftde2-Project_1 (Batch Processing)
+# ftde2-Project_1 (Batch Processing + BI)
 
 This project demonstrates a simple ETL (Extract, Transform, Load) process and outputs a dashboard for visualizing the processed data. The ETL pipeline extracts data, performs necessary transformations, and loads the cleaned data into a PostgreSQL database. The final output is a dashboard that provides insights and visual representations of the data into Google Data Studio.
 
