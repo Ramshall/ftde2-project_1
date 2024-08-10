@@ -38,9 +38,15 @@ pandas ==1.4.3
 ```
 ## Output
 [Dashboard](https://lookerstudio.google.com/reporting/4e4c57a4-12fa-45c2-9d5f-769e0b562520)
-![image](https://github.com/user-attachments/assets/c2924f68-7e9a-42cf-91e8-fab66872b5e6)
+![image](https://github.com/user-attachments/assets/7eacd1df-c028-433d-8e8d-509c57e43571)
 
-
+## Additional
+NBT stands for Newbie Team. We're a group project for the fast-track data engineering batch 2 at Digital Skola. The team consists of:
+* Gusti Imam S.
+* Muhammad Ramadhani
+* Nindya Nova P.S
+* Suyanto
+* Wisnu Setya
 
 
 
